@@ -1,6 +1,6 @@
 # Blank_Canvas
 
-## Hello, this is blank canvas, if you're reading this, then congrats on getting developer permissions, or permission to fork this (Only in the event that i no longer will be working on a new game in the series or pushing out revisions (thats what RV stands for in the commits btw)
+## Hello, this is blank canvas, if you're reading this, then congrats on using this template to create your own game!
 
 # Contents
 
@@ -11,8 +11,6 @@
 ## * Files and their respective purposes
 
 ## * Attribution
-
-## * Current Dev list ( Permitted Developers )
 
 
 
